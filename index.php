@@ -12,7 +12,15 @@
 			Behin Designs!
 		</h1>
 	</div>
-	Hi
-
+	<article><pre>
+		Hello, and welcome to home base for Behin Designs!
+		Use the navigation bar below to navigate the site easily.
+		I hope you will find what you're looking for.
+		If not, please drop me a line.
+		~Behinjamin
+	</pre></article>
+	<nav><footer>
+	Navigation footer.
+	</footer></nav>
 </body>
 </html>
