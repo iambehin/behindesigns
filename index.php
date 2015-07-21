@@ -20,7 +20,7 @@
 		~Behinjamin
 	</pre></article>
 	<nav><footer>
-	Navigation footer.
+	Navigation footer: <A href="/behindesigns/">Index</a> |*| <a href="about.php">About</a> |*| <a href="forms.php">Forms</a>
 	</footer></nav>
 </body>
 </html>
